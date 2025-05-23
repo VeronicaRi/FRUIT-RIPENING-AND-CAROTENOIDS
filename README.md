@@ -46,7 +46,3 @@ If you use this dataset or code, please cite the manuscript once published. Cita
 
 For questions or collaboration, please contact:  
 **Verónica A. Rincón Rubio** – veronica.rincon@ciencias.unam.mx
-
-## License
-
-This repository is made available under a Creative Commons Attribution 4.0 International License.
